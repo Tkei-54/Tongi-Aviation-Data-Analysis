@@ -25,4 +25,7 @@ Attached in this repository are the following:
 9. A powerpoint presentation.
    This contains a summary of my research and insights, plus recommendations and next steps for the client.
 
+10. A tableau chart file.
+    This contains all my tableau charts that informed my recommendations.
+
 Attached is my Tableau Dashboard link here for your perusal. Kindly note that it only contains a snapshot of my sheets: https://public.tableau.com/views/AviationDataDashboard_17455997384990/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
